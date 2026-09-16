@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix ندّك - ألعاب جماعية لجلساتكم",
+  "description": "منصة ألعاب جماعية رقمية مصممة للجمعات والجلسات حول شاشة واحدة. اختار، اشترِ، والعب فوراً بدون غرف أو برامج.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
